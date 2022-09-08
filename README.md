@@ -10,6 +10,8 @@ Over the course of this mini I hope to learn how to combine my data analytics sk
 
 # Portfolio
 
-## Data Visualization Assignment 1
+## Data Visualization Assignment 2
+
+[Government Debt](/dataviz2.md)
 
 ## Final Project
