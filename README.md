@@ -12,6 +12,6 @@ Over the course of this mini I hope to learn how to combine my data analytics sk
 
 ## Data Visualization Assignment 2
 
-[Government Debt](/dataviz2.md)
+[General Government Debt (2020)](/dataviz2.md)
 
 ## Final Project
