@@ -12,6 +12,6 @@ Over the course of this mini I hope to learn how to combine my data analytics sk
 
 ## Data Visualization Assignment 2
 
-[General Government Debt](/dataviz2.md)
+[Visualizations with OCED data](/dataviz2.md)
 
 ## Final Project
