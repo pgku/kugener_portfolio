@@ -1,5 +1,6 @@
 # Step one: Find a data visualization
 
+![Alt text](https://github.com/pgku/kugener_portfolio/blob/main/Screen%20Shot%202022-09-19%20at%203.45.38%20PM.png)
 # Step two: Critique the data visualization
 
 ##  Usefulness - 9
