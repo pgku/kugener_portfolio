@@ -42,8 +42,6 @@ I sketched out a solution that included turning the lineplot into a series of ba
 
 # Step four: Test the solution
 
-![image](https://user-images.githubusercontent.com/74365363/191384743-10be534f-8a4b-42bf-800b-38987eff74a5.png)
-
 Young adult early 20s
 
 - Can you tell me what you think this is?
