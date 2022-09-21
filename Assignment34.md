@@ -12,7 +12,7 @@ The intended audience for this graph is Congress. I think that the content of th
 
 ##  Completeness - 9
 
-I think that the visualization has everything necessary to make it understandable which is why I gave it a 9, but that sometimes it overloads the viewer with information. For example there is a lot of repetition in the data visualization such as including the percetages for expended and obligated above each data point. I don't think that the graphic has any unnessecary information, but just that it could be a bit more concise. 
+I think that the visualization has everything necessary to make it understandable which is why I gave it a 9, but that sometimes it overloads the viewer with information. For example there is a lot of repetition in the data visualization such as including the percentages for expended and obligated above each data point. I don't think that the graphic has any unnessecary information, but just that it could be a bit more concise. 
 
 ##  Perceptibility - 4
 
