@@ -12,7 +12,7 @@ The intended audience for this graph is Congress. I think that the content of th
 
 ##  Completeness - 9
 
-I think that the visualization has everything necessary to make it understandable which is why I gave it a 9, but that sometimes it overloads the viewer with information. For example there is a lot of repetition in the data visualization such as including the percentages for expended and obligated above each data point. I don't think that the graphic has any unnessecary information, but just that it could be a bit more concise. 
+I think that the visualization has everything necessary to make it understandable which is why I gave it a 9, but that sometimes it overloads the viewer with information. For example there is a lot of repetition in the data visualization such as including the percentages for expended and obligated above each data point. I don't think that the graphic has any unnecessary information, but just that it could be a bit more concise. 
 
 ##  Perceptibility - 4
 
@@ -24,7 +24,7 @@ For truthfulness I gave this graph a perfect 10 because I feel like it is not tr
 
 ##  Intuitiveness - 3
 
-This graphic has a low intuitiveness score because of the fact that there is a lot of information in it and it is pretty difficult to understand what is being shown. I feel like this graph is difficult to understand because of the nature of the data. For example, are the percentages just showing the percentage of the amount provided to date that has been used? Also, what is the definition of obligated and expended in this context? I think the complexity of this graph is supported by the fact that there is a very long notes section underneath with which addresses some of the peculiarities in this graph. 
+This graphic has a low intuitiveness score because of the fact that there is a lot of information in it and it is pretty difficult to understand what is being shown. I feel like this graph is difficult to understand because of the nature of the data. For example, are the percentages just showing the percentage of the amount provided to date that has been used? Also, what is the definition of obligated and expended in this context? I think the complexity of this graph is supported by the fact that there is a very long notes section underneath which addresses some of its peculiarities.
 
 ##  Aesthetics- 3
 
@@ -66,13 +66,13 @@ Not me. People who are auditing spending within or outside the government.
 - Is there anything you would change?
 What is confusing is that the numbers underneath the dates on the axis... is that how much money was provided? How does that connect to obligated and expended? A clarification on COVID-19 relief funding, is it from a specific office or for a program? Where that data comes from.
 
-I found getting outside perspective about my sketch to be really interesting. Both individuals that I interviewed had similar issues with the sketch but also provided different insights. Overall, they both found the "amount provided to date" to be a bit confusing and they also had some problems understanding what was going on with the percentages. Hopefully my final graph will help to clarify these issues.
+I found that getting an outside perspective about my sketch was very interesting. Both individuals that I interviewed had similar issues with the sketch but also provided different insights. Overall, they both found the "amount provided to date" to be a bit confusing and they also had some problems understanding what was going on with the percentages. Hopefully my final graph will help to clarify these issues.
 
 # Step five: Build your solution
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11238211"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Above is my final data visualization. What I tried to do was take the information presented in the original graph and try and tell a story with it. In order to do that I used a dual axis which is a bit different but I think really allows the viewer to see the relationship between the change in the amount of funding allocated and the obligated and expended numbers. I also decided to highlight the two acts that the original graphic had because as you can see in the graph, after both acts the amount of funding increases. I thought that this was a missed opportunity in the original data visualization which is why I included in my new version. Additionally, I made the allocated funding line skip over these sections to show how dramatic of an increase in funding there was. I think that including the funding amount as a line was necessary to really get the most out of having that information in the first place. Finally, I switched up the color choices to make it a bit brighter and exciting. Also, I want to point out one of the attributes that I kept from the original graphic which was how they decided to cut down the y axis. I thought that it was a really good choice and really helps the data visualization not become overwhelmed with so much solid color. Overall, I feel like I learned a lot about how much trial and error goes into recreating a data visualization and how getting outside perspectives really helps you to understand how your work is being viewed. 
+Above is my final data visualization. What I tried to do was take the information presented in the original graph and try to tell a story with it. In order to do that I used a dual axis which is a bit different but I think really allows the viewer to see the relationship between the change in the amount of funding allocated and the obligated and expended numbers. I also decided to highlight the two acts that the original graphic had because as you can see in the graph, after both acts the amount of funding increases. I thought that this was a missed opportunity in the original data visualization which is why I included it in my new version. Additionally, I made the allocated funding line skip over these sections to show how dramatic of an increase in funding there was. I think that including the funding amount as a line was necessary to really get the most out of having that information in the first place. Finally, I switched up the color choices to make it a bit brighter and exciting. Also, I want to point out one of the attributes that I kept from the original graphic which was how they decided to cut down the y axis. I thought that it was a really good choice and really helps the data visualization not become overwhelmed with so much solid color. Overall, I feel like I learned a lot about how much trial and error goes into recreating a data visualization and how getting outside perspectives really helps you to understand how your work is being viewed. 
 
 ### Sources:
 
