@@ -26,7 +26,7 @@ Below are some of my new design ideas for the final project.
 
 Original data set: This dataset was created by merging data from the [MIT Election Lab](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IG0UN2) and the ideology scores for different representatives from [voteview](https://voteview.com/data). This data is different than what I used in my intial data visualizations (which I showed above) since I used a different metric to measure ideology in those graphs. I cleaned and merged the dataset myself. 
 
-Additionally, I might merge by created dataset with a shapefile in order to be able to graph the data that I have in map format. One source that I could use is this [United States Conressgional Distrcit Shapefile](https://cdmaps.polisci.ucla.edu/) dataset that I came across.
+Additionally, I might merge the dataset I created with a shapefile in order to be able to graph the data that I have in map format. One source that I could use is this [United States Congressional Distrcit Shapefile](https://cdmaps.polisci.ucla.edu/) dataset that I came across.
 
 Census: I might merge my dataset on data from the [Census](https://www.census.gov/data/tables/time-series/demo/voting-and-registration/congressional-voting-tables.html) on the voting rates for congressional districts as well as the second dataset on that site which shows the differne proportion of ages of individuals who voted in 2018. This would possibly show more of the unintended consequences of gerrymandering. For example, if I did a graph that showed the percentage of a certain agae range that turned out in the election for a representative in 2018 versus their ideology. 
 
