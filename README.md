@@ -14,4 +14,11 @@ Over the course of this mini I hope to learn how to combine my data analytics sk
 
 [Visualizations with OCED data](/dataviz2.md)
 
-## Final Project
+## Data Visualization Assignment 3 + 4
+
+[Critique by Design](/Assignment34.md)
+
+## Final Project Part 1
+
+[Part 1](/part1.md)
+
