@@ -1,4 +1,4 @@
-Assignment 2: Visualizations with OCED data
+# Assignment 2: Visualizations with OCED data
 
 The following graphs explore the General Government Debt dataset from the OCED using different data visualization techniques. The General Government Debt dataset includes the debt-to-GDP measurement which is the percentage of gross debt a country has compared to their GDP. A large debt-to-GDP ratio indicates that a country's debt is high compared to its GDP. Each of the following data visualizations focus on different aspects of the data and aim to highlight interesting trends in the debt-to-GDP ratios across various countries.
 
@@ -20,3 +20,5 @@ Each of the data visualizations above have their own purposes and are very impor
 
 ## Citation
 OECD (2022), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 09 September 2022)
+
+[Home](/README.md)
