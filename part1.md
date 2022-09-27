@@ -6,6 +6,8 @@
 
 For my final project I plan to rework an article I wrote for my Voting Rights class last semester. I wrote an article about the impact of gerrymandering in which I included data visualizations from a dataset that I created myself by merging preexisting datasets. My overall topic will be on gerrymandering and the map making process in the US. I will create graphs using the dataset that I put together as well as graphs using Congressional District shapefiles. The plan for my final project is to put together a cohesive policy data story on the intended and unintended impacts of gerrymandering and to improve on the graphics that I initial created for my other class. 
 
+![Image](fp_image_7.png)
+
 I have included above an image of my story arc for the presentation. I think it will start out with people being pretty ambivilant since we already hear a lot about gerrymandering in the news. The next step is further down as I introduce images of gerrymandered districts and talk more about the impacts. And then it will start to go up as we look further into the data and into the unintended impacts of gerrymandering. Finally, the presentation will end at the highpoint where I go over what steps we can take. 
 
 ## Initial sketches
@@ -22,9 +24,9 @@ Below I have included some of my original graphs which I used in my assignment. 
 
 Below are some of my redesign ideas for the final project. 
 
-![Image](fp_image3.png)
-
 ![Image](fp_image5.png)
+
+![Image](fp_image3.png)
 
 ### New designs
 
