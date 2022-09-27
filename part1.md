@@ -18,9 +18,19 @@ Below I have included some of my original graphs which I used in my assignment. 
 
 ![Image](final_project_image1.png)
 
+### Redesigns
+
+Below are some of my redesign ideas for the final project. 
+
+![Image](fp_image3.png)
+
+![Image](fp_image5.png)
+
 ### New designs
 
-Below are some of my new design ideas for the final project. 
+![Image](fp_image4.png)
+
+![Image](fp_image6.png)
 
 ## The data
 
