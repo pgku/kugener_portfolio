@@ -38,7 +38,7 @@ My new designs include a graph that shows the ideology of a representative plott
 
 ## The data
 
-Original data set: This dataset was created by merging data from the [MIT Election Lab](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IG0UN2) and the ideology scores for different representatives from [voteview](https://voteview.com/data). This data is different than what I used in my initial data visualizations (which I showed above) since I used a different metric to measure ideology in those graphs. I cleaned and merged the dataset myself. 
+Original data set: This dataset was created by merging data from the [MIT Election Lab](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IG0UN2) and the ideology scores for different representatives from [voteview](https://voteview.com/data). This data is different from what I used in my initial data visualizations (which I showed above) since I used a different metric to measure ideology in those graphs. I cleaned and merged the dataset myself. 
 
 Additionally, I might merge the dataset I created with a shapefile in order to graph the data that I have in a map format. One source that I could use is this [United States Congressional District Shapefile](https://cdmaps.polisci.ucla.edu/) dataset that I came across.
 
