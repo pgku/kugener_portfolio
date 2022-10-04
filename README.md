@@ -18,7 +18,11 @@ Over the course of this mini I hope to learn how to combine my data analytics sk
 
 [Critique by Design](/Assignment34.md)
 
-## Final Project Part 1
+## Final Project Part I
 
-[Part 1](/part1.md)
+[Part I](/part1.md)
+
+## Final Project Part II
+
+[Part II](/part2.md)
 
