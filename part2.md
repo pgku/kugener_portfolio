@@ -1,8 +1,8 @@
 # Final Project Part II
 
-## Link to shorthand wireframe
+## Wireframe
 
-https://app.shorthand.com/organisations/JSrgFWI7zn/stories/of0ywWoZxL
+[Link to Shorthand wireframe](https://app.shorthand.com/organisations/JSrgFWI7zn/stories/of0ywWoZxL)
 
 
 
