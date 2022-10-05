@@ -26,7 +26,7 @@ Q(4) Any thoughts on the infographics? Are they clear?
 
 Q(5) Is anything confusing?
 
-| | A (student, mid 20s) | B (employed, early 20s) | C (employed, early 20s) |
+| | A (student, mid 20s) | B (employed, mid 20s) | C (employed, early 20s) |
 |------|------|------|------|
 | Q(1) |Very sensible! I like that you start off by explaining the terminology of cracking and packing to give the reader some context on the issue.|The flow looks good but the end has many graphs. There are many things to look at| It makes sense! The call to action is vague but I like the introduction!|
 | Q(2) | Yes! I especially like the map and the zoom-in feature. I am a bit confused on the dot charts, but I think that once you clarify the y-axis there, you'll be in good shape. |Yes but the labels are not helpful. It is hard to understand what is being shown | The graphs do enhance the story but there are many graphs and I would consider adding images to break up the number of scatterplots|
