@@ -17,18 +17,22 @@ My focus in creating my interview script was to get overall feedback on my wiref
 Below I have included my questions:
 
 Q(1) What did you think of the flow of the presentation?
+
 Q(2) Do the graphs enhance the story?
+
 Q(3) What do you think of the color scheme? Is it too red, white, and blue?
+
 Q(4) Any thoughts on the infographics? Are they clear?
+
 Q(5) Is anything confusing?
 
 | | A | B | C |
 |------|------|------|------|
-| Q(1) |Very sensible! I like that you start off by explaining the terminology of cracking and packing to give the reader some context on the issue.| | |
-| Q(2) | Yes! I especially like the map and the zoom-in feature. I am a bit confused on the dot charts, but I think that once you clarify the y-axis there, you'll be in good shape. | | |
-| Q(3) | It is definitely red, white, and blue, but it's on-brand for the topic at hand! There is a lot of white in the background, so to dilute that, maybe consider having light grey text for some of the background slides. | | |
-| Q(4) | I love the map! Honestly, I may "borrow" this idea, ha. Contextualizing the data with one state makes things more approachable. | | |
-| Q(5) | I am a little confused by the initial set of graphs you have. A technical person / someone who knows more about this topic might be able to immediately get the message from the data, but I am a little confused on the yaxis: "nominate_dim1." There are a lot of graphs with the different age ranges, and I'm not 100% sure what the takeaway is. | | |
+| Q(1) |Very sensible! I like that you start off by explaining the terminology of cracking and packing to give the reader some context on the issue.|The flow looks good but the end has many graphs. There are many things to look at| |
+| Q(2) | Yes! I especially like the map and the zoom-in feature. I am a bit confused on the dot charts, but I think that once you clarify the y-axis there, you'll be in good shape. |Yes but the labels are not helpful. It is hard to understand what is being shown | |
+| Q(3) | It is definitely red, white, and blue, but it's on-brand for the topic at hand! There is a lot of white in the background, so to dilute that, maybe consider having light grey text for some of the background slides. | It does have a lot of those colors but since this is about politics I think that it makes sense | |
+| Q(4) | I love the map! Honestly, I may "borrow" this idea, ha. Contextualizing the data with one state makes things more approachable. | They are very informative. I like the map that zooms in | |
+| Q(5) | I am a little confused by the initial set of graphs you have. A technical person / someone who knows more about this topic might be able to immediately get the message from the data, but I am a little confused on the yaxis: "nominate_dim1." There are a lot of graphs with the different age ranges, and I'm not 100% sure what the takeaway is. | There are many graphs and I am not sure how they all connect to the topic | |
 
 
 [Home](/README.md)
