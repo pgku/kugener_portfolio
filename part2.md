@@ -38,4 +38,9 @@ Q(5) Is anything confusing?
 
 The findings from my interviews were really interesting because they confirmed some ideas that I had and they also showed me what I was doing well. I had a suspicion that my graphs were difficult to interpret especially since there is no text to explain their purpose or what they are showing so the fact that it was a comment I got was not too surprising. Additionally, I had not realized that I should explain the ideology ranking that I was using. I think that was a good call out and that is something that I will need to add to my final presentation. It was also good to get feedback about how I should present my scatterplots. I thought that the grey dots with the blue and red trend lines looked good but someone brought up that it was confusing and made it seem like it was the same data so I should think about making them transparent or a lighter color. That is another change that I plan to implement. Finally, I liked the feedback about the flow of my presentation but as was mentioned I think that I do have too many graphs and that I could include some more infographics or even images to make the overall visualization feel less technical. Overall, there are many things that I need to fix for the final project but I think that I am in a good place because the general outline of my project appears to be strong. 
 
+## Links 
+
+[Part I](/part1.md)
+[Part III](/part3.md)
+
 [Home](/README.md)
