@@ -26,3 +26,8 @@ Over the course of this mini I hope to learn how to combine my data analytics sk
 
 [Part II](/part2.md)
 
+## Final Project Part II
+
+[Part III](/part3.md)
+
+
