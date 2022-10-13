@@ -16,7 +16,25 @@ Overall, I really enjoyed creating a presentation on a topic that I am really pa
 
 [Here](https://carnegiemellon.shorthandstories.com/the-unintended-benefits-of-gerrymandering/index.html) is a link to the final Shorthand presentation 
 
-## Links to other parts
+## References used in final presentation 
+
+Kirschenbaum, Julia, and Michael Li. “Gerrymandering Explained.” Brennan Center for Justice, 10 Aug. 2021, https://www.brennancenter.org/our-work/research-reports/gerrymandering-explained.
+
+Ingraham, Christopher, "America's most gerrymandered congressional districts," The Washington Post, 15 May 2014, https://www.washingtonpost.com/news/wonk/wp/2014/05/15/americas-most-gerrymandered-congressional-districts/
+
+Corasaniti, Nick, and Epstein, Reid J. "As Both Parties Gerrymander Furiously, State Courts Block the Way," The New York Times, 2 April, 2022, https://www.nytimes.com/2022/04/02/us/politics/congressional-maps-gerrymandering-midterms.html
+
+Images: 
+Unsplash, Tableau, Canva
+
+Data:
+[MIT Election Lab](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IG0UN2)
+[voteview](https://voteview.com/data)
+[Census](https://www.census.gov/data/tables/time-series/demo/voting-and-registration/congressional-voting-tables.html)
+[Data.gov](https://catalog.data.gov/dataset/tiger-line-shapefile-2019-nation-u-s-116th-congressional-district-national)
+[Census](https://www.census.gov/library/reference/code-lists/ansi.html) (For FIPS file)
+
+## Links
 
 [Part I](/part1.md)
 [Part II](/part2.md)
