@@ -27,7 +27,7 @@ Corasaniti, Nick, and Epstein, Reid J. "As Both Parties Gerrymander Furiously, S
 Images: 
 Unsplash, Tableau, Canva
 
-Data:
+Data:  
 [MIT Election Lab](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IG0UN2)  
 [voteview](https://voteview.com/data)  
 [Census](https://www.census.gov/data/tables/time-series/demo/voting-and-registration/congressional-voting-tables.html)  
