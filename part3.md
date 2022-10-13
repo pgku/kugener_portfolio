@@ -25,7 +25,7 @@ Ingraham, Christopher, "America's most gerrymandered congressional districts," T
 Corasaniti, Nick, and Epstein, Reid J. "As Both Parties Gerrymander Furiously, State Courts Block the Way," The New York Times, 2 April, 2022, https://www.nytimes.com/2022/04/02/us/politics/congressional-maps-gerrymandering-midterms.html
 
 Images: 
-Unsplash, Tableau, Canva
+Tableau, Canva (icons by sketchify), Unsplash
 
 Data:  
 [MIT Election Lab](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IG0UN2)  
