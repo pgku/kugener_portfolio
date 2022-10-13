@@ -28,11 +28,11 @@ Images:
 Unsplash, Tableau, Canva
 
 Data:
-[MIT Election Lab](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IG0UN2)
-[voteview](https://voteview.com/data)
-[Census](https://www.census.gov/data/tables/time-series/demo/voting-and-registration/congressional-voting-tables.html)
-[Data.gov](https://catalog.data.gov/dataset/tiger-line-shapefile-2019-nation-u-s-116th-congressional-district-national)
-[Census](https://www.census.gov/library/reference/code-lists/ansi.html) (For FIPS file)
+[MIT Election Lab](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IG0UN2)  
+[voteview](https://voteview.com/data)  
+[Census](https://www.census.gov/data/tables/time-series/demo/voting-and-registration/congressional-voting-tables.html)  
+[Data.gov](https://catalog.data.gov/dataset/tiger-line-shapefile-2019-nation-u-s-116th-congressional-district-national)  
+[Census](https://www.census.gov/library/reference/code-lists/ansi.html) (For FIPS file)  
 
 ## Links
 
