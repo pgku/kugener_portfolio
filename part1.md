@@ -50,4 +50,9 @@ Dave's Redistricting: I am possibly going to use some images of districts from [
 
 I plan on completing my final project by using Shorthand. While I feel like this data would do better with a FiveThirtyEight type of data story, I feel like pushing myself to use Shorthand will allow me to explore how to be more creative with this information and how to really craft a narrative. I think it will also allow me to use text to highlight important statistics and to include infographics that explain concepts such as cracking and packing. 
 
+## Links 
+
+[Part II](/part2.md)
+[Part III](/part3.md)
+
 [Home](/README.md)
